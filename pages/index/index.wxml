@@ -12,6 +12,7 @@
     <input type="number"></input>
     <button>加入房间</button>
   </view>
+  <image src="../../images/onw_bg512.png"></image>
   <view class="usermotto">
     <text class="user-motto">欢迎加入</text>
   </view>

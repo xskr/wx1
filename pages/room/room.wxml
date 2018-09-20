@@ -1,2 +1,5 @@
 <!--pages/room/room.wxml-->
+<view class='whole'>
+<text>page</text>
+</view>
 <text>pages/room/room.wxml</text>
