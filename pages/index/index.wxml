@@ -12,7 +12,7 @@
     <input type="number"></input>
     <button>加入房间</button>
   </view>
-  <text>{{wx.}}</text>
+  <text></text>
   <view class="usermotto">
     <text class="user-motto">欢迎加入</text>
   </view>
