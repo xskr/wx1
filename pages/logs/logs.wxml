@@ -1,0 +1,12 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  <block wx:for="{{logs}}" wx:for-item="log">
+    <text class="log-item">{{index + 1}}. {{log}}</text>
+  </block>
+  <text>Good1</text>
+  <text>Bad2</text>
+  <text>See3</text>
+  <text>Hello World4</text>
+  <text>Hello World5</text>
+  <text>Hello World6</text>
+</view>
