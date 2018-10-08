@@ -8,9 +8,9 @@
     </block>
   </view>
   <view>
-    <button>创建房间</button>
+    <button bindtap='bindCreateTap'>创建房间</button>
     <input type="number"></input>
-    <button>加入房间</button>
+    <button bindtap='bindRoomTap'>加入房间</button>
   </view>
   <text></text>
   <view class="usermotto">

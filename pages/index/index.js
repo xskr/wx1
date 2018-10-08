@@ -15,6 +15,16 @@ Page({
       url: '../room/room'
     })
   },
+  bindCreateTap: function(){
+    wx.navigateTo({
+      url: '../create/create'
+    })
+  },
+  bindRoomTap: function () {
+    wx.navigateTo({
+      url: '../room/room'
+    })
+  },
   onLoad: function () {
     if (app.globalData.userInfo) {
       this.setData({
